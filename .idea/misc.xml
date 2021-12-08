@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/CH07-Image/0700_LifeCycle/src/main/res/menu/m0700.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH07-Image/0702_Animation/src/main/res/layout/m0702.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH07-Image/0703_HorizontalScrollView/src/main/res/layout/m0703.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH07-Image/0703_HorizontalScrollView/src/main/res/menu/m0700.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH07-Image/0703_HorizontalScrollView/src/main/res/menu/m0702.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH07-Image/0703_HorizontalScrollView/src/main/res/menu/m0703.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH07-Image/0704_ListView_with_icons/src/main/res/layout/list_item.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH07-Image/0704_ListView_with_icons/src/main/res/layout/m0704.xml" value="0.33" />
+        <entry key="..\:/android-work/CH07-Image/0704_ListView_with_icons/src/main/res/menu/m0704.xml" value="0.33" />
+        <entry key="..\:/android-work/CH07-Image/0705_Game_Animation/src/main/res/layout/m0705.xml" value="0.3177083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

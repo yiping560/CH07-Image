@@ -1,0 +1,17 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "CH07-Image"
+include ':app'
+include ':0700_LifeCycle'
+include ':0703_HorizontalScrollView'
+include ':0702_Animation'
+include ':0701_ImageSwitcher'
+include ':0704_ListView_with_icons'
+include ':0705_Game_Animation'
+
