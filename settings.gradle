@@ -15,3 +15,4 @@ include ':0701_ImageSwitcher'
 include ':0704_ListView_with_icons'
 include ':0705_Game_Animation'
 
+include ':0706_TextView_setup'
